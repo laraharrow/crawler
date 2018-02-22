@@ -1,7 +1,7 @@
 From the command line navigate to this folder and run:
 > npm install
 
-Navigate into the pintProj folder and type:
-> node app 
+Then to run the file:
+> node pinterest
 
-And navigate to http://localhost:8080
+And navigate to http://localhost:3000
